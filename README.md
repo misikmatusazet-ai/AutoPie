@@ -4,7 +4,7 @@
 
 AutoPie is a command hub and workflow runner for Android. It gives shell commands and Python scripts a friendly UI, runs them inside an embedded Termux environment, and lets you trigger them manually, from Android's share sheet, when files appear, on a schedule, from a home-screen shortcut, or from another app.
 
-### [Download the latest APK](https://github.com/cryptrr/AutoPie/releases/)
+### [Download the latest APK](https://github.com/cryptrr/AutoPie/releases/) 
 
 > AutoPie currently supports aarch64/arm64-v8a devices (most newer Android phones).
 
